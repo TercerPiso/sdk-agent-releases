@@ -1,0 +1,21 @@
+{
+  "version": "1.0.26",
+  "tag": "v1.0.26",
+  "channel": "develop",
+  "publishedAt": "2026-07-11T01:27:36.833Z",
+  "releaseNotes": "Release develop 1.0.26",
+  "artifacts": {
+    "win": {
+      "filename": "sdk-agent-win-1.0.26.exe",
+      "sha256": "9a9286e4e487f9f6968f3d1d05906d75cc6095bc98c9a2fd918591dcb5845f01",
+      "sizeBytes": 116138166,
+      "url": "https://github.com/TercerPiso/sdk-agent-releases/releases/download/develop-v1.0.26/sdk-agent-win-1.0.26.exe"
+    },
+    "linux-deb": {
+      "filename": "sdk-agent-lin-1.0.26.deb",
+      "sha256": "3c651fbdbf229be58f9854788dc7ebb250f7fcc739c1cfe7ee32f2996cedd007",
+      "sizeBytes": 77674712,
+      "url": "https://github.com/TercerPiso/sdk-agent-releases/releases/download/develop-v1.0.26/sdk-agent-lin-1.0.26.deb"
+    }
+  }
+}
