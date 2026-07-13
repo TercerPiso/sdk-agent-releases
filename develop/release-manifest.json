@@ -1,21 +1,21 @@
 {
-  "version": "1.0.32",
-  "tag": "v1.0.32",
+  "version": "1.0.33",
+  "tag": "v1.0.33",
   "channel": "develop",
-  "publishedAt": "2026-07-13T17:07:49.972Z",
-  "releaseNotes": "Release develop 1.0.32",
+  "publishedAt": "2026-07-13T18:21:42.467Z",
+  "releaseNotes": "chore(release): bump to 1.0.33 with release notes from commit messages\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
   "artifacts": {
     "win": {
-      "filename": "sdk-agent-win-1.0.32.exe",
-      "sha256": "201e00656f4dc6ea1061999be37dceafe15b920171137bfc3521117ce64c483c",
-      "sizeBytes": 124069348,
-      "url": "https://github.com/TercerPiso/sdk-agent-releases/releases/download/develop-v1.0.32/sdk-agent-win-1.0.32.exe"
+      "filename": "sdk-agent-win-1.0.33.exe",
+      "sha256": "ffd7e654dd90e9ac8f6e416b52fb14b26b958a2c14970e3f2fd2ea5b742ed07b",
+      "sizeBytes": 124069252,
+      "url": "https://github.com/TercerPiso/sdk-agent-releases/releases/download/develop-v1.0.33/sdk-agent-win-1.0.33.exe"
     },
     "linux-deb": {
-      "filename": "sdk-agent-lin-1.0.32.deb",
-      "sha256": "78ea65ae779d42c4613280d0125224c957e47acbc62bee2ad7d946bcce5502e7",
-      "sizeBytes": 105486856,
-      "url": "https://github.com/TercerPiso/sdk-agent-releases/releases/download/develop-v1.0.32/sdk-agent-lin-1.0.32.deb"
+      "filename": "sdk-agent-lin-1.0.33.deb",
+      "sha256": "5b21a1da81260b27f0ef607fd3b218084f29234e7fe36001f12a2824f8a66448",
+      "sizeBytes": 105467118,
+      "url": "https://github.com/TercerPiso/sdk-agent-releases/releases/download/develop-v1.0.33/sdk-agent-lin-1.0.33.deb"
     }
   }
 }
