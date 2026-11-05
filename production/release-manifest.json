@@ -1,21 +1,21 @@
 {
-  "version": "1.0.40",
-  "tag": "v1.0.40",
+  "version": "1.0.42",
+  "tag": "v1.0.42",
   "channel": "production",
-  "publishedAt": "2026-11-04T18:20:19.941Z",
-  "releaseNotes": "chore(release): bump version to 1.0.40\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
+  "publishedAt": "2026-11-05T00:35:11.824Z",
+  "releaseNotes": "feat(kiosk): hide the GNOME top bar while the Linux kiosk is active\n\nThe overview extension hides the system panel for the duration of the lockdown and restores it on release, so leaving fullscreen no longer exposes the desktop controls.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
   "artifacts": {
     "win": {
-      "filename": "sdk-agent-win-1.0.40.exe",
-      "sha256": "8eb6a8a4582335fd27f23371c09d42a66ee984658239f072eec47ed36640ac6f",
-      "sizeBytes": 124564618,
-      "url": "https://github.com/TercerPiso/sdk-agent-releases/releases/download/production-v1.0.40/sdk-agent-win-1.0.40.exe"
+      "filename": "sdk-agent-win-1.0.42.exe",
+      "sha256": "4f7b17bf0dd34289dca5ec057db1f38838e6a49d646feed320339dd723618405",
+      "sizeBytes": 124566833,
+      "url": "https://github.com/TercerPiso/sdk-agent-releases/releases/download/production-v1.0.42/sdk-agent-win-1.0.42.exe"
     },
     "linux-deb": {
-      "filename": "sdk-agent-lin-1.0.40.deb",
-      "sha256": "49ddd8e7c866dffc7d95c0dd3125ea1f9cb9184b6742a4955a12f38bdfb2c9d2",
-      "sizeBytes": 106111284,
-      "url": "https://github.com/TercerPiso/sdk-agent-releases/releases/download/production-v1.0.40/sdk-agent-lin-1.0.40.deb"
+      "filename": "sdk-agent-lin-1.0.42.deb",
+      "sha256": "21f34d55712f448f46e05b734abe0576198585f342a08b4c0d6ed15132baa692",
+      "sizeBytes": 106128968,
+      "url": "https://github.com/TercerPiso/sdk-agent-releases/releases/download/production-v1.0.42/sdk-agent-lin-1.0.42.deb"
     }
   }
 }
