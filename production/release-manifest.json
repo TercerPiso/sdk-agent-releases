@@ -1,21 +1,21 @@
 {
-  "version": "1.0.42",
-  "tag": "v1.0.42",
+  "version": "1.0.43",
+  "tag": "v1.0.43",
   "channel": "production",
-  "publishedAt": "2026-11-05T00:35:11.824Z",
-  "releaseNotes": "feat(kiosk): hide the GNOME top bar while the Linux kiosk is active\n\nThe overview extension hides the system panel for the duration of the lockdown and restores it on release, so leaving fullscreen no longer exposes the desktop controls.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
+  "publishedAt": "2026-11-05T13:18:24.564Z",
+  "releaseNotes": "feat(kiosk): restore Chrome fullscreen when the GNOME window leaves it\n\nThe overview extension puts the kiosk window back into fullscreen, offers a manual button if it stays small, and veils the top bar without unmapping it so Mutter does not crash.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
   "artifacts": {
     "win": {
-      "filename": "sdk-agent-win-1.0.42.exe",
-      "sha256": "4f7b17bf0dd34289dca5ec057db1f38838e6a49d646feed320339dd723618405",
-      "sizeBytes": 124566833,
-      "url": "https://github.com/TercerPiso/sdk-agent-releases/releases/download/production-v1.0.42/sdk-agent-win-1.0.42.exe"
+      "filename": "sdk-agent-win-1.0.43.exe",
+      "sha256": "29c35736481b6457175c46b419aca1a56213e72612912aaa1596641495f83fb3",
+      "sizeBytes": 124568702,
+      "url": "https://github.com/TercerPiso/sdk-agent-releases/releases/download/production-v1.0.43/sdk-agent-win-1.0.43.exe"
     },
     "linux-deb": {
-      "filename": "sdk-agent-lin-1.0.42.deb",
-      "sha256": "21f34d55712f448f46e05b734abe0576198585f342a08b4c0d6ed15132baa692",
-      "sizeBytes": 106128968,
-      "url": "https://github.com/TercerPiso/sdk-agent-releases/releases/download/production-v1.0.42/sdk-agent-lin-1.0.42.deb"
+      "filename": "sdk-agent-lin-1.0.43.deb",
+      "sha256": "2e09141d5035abfab150371fc54a7d265d6a2dce9e62046b8b57de99a6ddcf2e",
+      "sizeBytes": 105820264,
+      "url": "https://github.com/TercerPiso/sdk-agent-releases/releases/download/production-v1.0.43/sdk-agent-lin-1.0.43.deb"
     }
   }
 }
